@@ -21,6 +21,6 @@ public class MIREA {
 
          */
         ///////////////////////task 4///////////////////////
-
+        /*creation of the classes Dog and DogKennel*/
     }
 }
